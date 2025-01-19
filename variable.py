@@ -13,3 +13,15 @@ print(age)
 print(type(name))
 print(type(age))
 print(type(price))
+# //datatype
+
+name1="sk"
+name2="sk"
+print(type(name1))
+# booelan
+age=23
+old=False
+a=None
+print(type(age))
+print(type(old))
+print(type(a))
