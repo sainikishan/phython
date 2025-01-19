@@ -29,4 +29,19 @@ print(type(a))
 q=30
 g=50
 c=q+g
+print(c) 
+
+
+a,b=2,3
+Txt="@"
+print(2*Txt*3)
+
+# string and string
+a,b="2",3
+Txt="@"
+print((a+Txt)*3)
+
+# Numeric values
+a,b=1,2
+c=a/b
 print(c)
