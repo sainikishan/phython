@@ -25,3 +25,8 @@ a=None
 print(type(age))
 print(type(old))
 print(type(a))
+# sum of two variable
+q=30
+g=50
+c=q+g
+print(c)
