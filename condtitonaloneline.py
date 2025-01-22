@@ -8,4 +8,4 @@ print("sweet") if food == "cake" or food=="jalebi" else print("not seet")
 
 # clever if ternary operator
 age = int(input("age : "))
-vote =("yes","no") 
+vote =("yes","no") [age < 18]
