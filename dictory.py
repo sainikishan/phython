@@ -14,3 +14,13 @@ info={
 }
 print(info)
 print(info["name"])
+# nested dictionary
+student={
+    "name":"kishan",
+    "subject":{
+        "maths":90,
+        "science":97,
+        "english":87,  
+    },
+}
+print(student)
