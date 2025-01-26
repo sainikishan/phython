@@ -17,6 +17,10 @@ print(list)
 list=[2,1,3]
 list.sort()
 list.sort(reverse=True) #desecending order
+list.reverse()
+list.insert(1,"kishan") #insert to new values in array
+list.remove(1) #remove method
+list.pop(1) #delete method
 print(list)
 
 # string are inmultiabple in phyton
