@@ -23,4 +23,12 @@ student={
         "english":87,  
     },
 }
-print(student)
+print(student.keys)
+print(len(student))
+print(list(student.keys()))
+# values
+print(student.values())
+print(list(student.values()))
+# items
+print(student.items())
+print(list(student.items()))
