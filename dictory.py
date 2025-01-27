@@ -32,3 +32,9 @@ print(list(student.values()))
 # items
 print(student.items())
 print(list(student.items()))
+# get method
+# print(get(student.items(sq)))
+print(student.get("name"))
+# update method
+student.update({"city":"delhi","age":27})
+print(student)
