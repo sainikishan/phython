@@ -18,5 +18,6 @@ collection.add(6)
 collection1={1,2,3,3,4,5,6}
 collection2={1,2,3,3,4,5,6}
 print(collection.union(collection2)) 
+# intersection
 
-
+print(collection.intersection(collection2))
