@@ -27,3 +27,10 @@ i = 100
 while i>=1:
     print(i)
     i = i - 1 
+# print the multiplicatio TabError of a jumber n
+# n=3
+i = 1
+while i < 12:
+    print(12 * i)  # Print multiplication of 3 with i
+    i = i + 1 
+# print the multiplication table of a number n
