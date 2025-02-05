@@ -34,3 +34,10 @@ while i < 12:
     print(12 * i)  # Print multiplication of 3 with i
     i = i + 1 
 # print the multiplication table of a number n
+# print the list using loop
+list = [1,2,3,4,5,6,7,8,10]
+i = 0
+while i < len(list):
+    print(list[i])
+i = i + 1
+# print the list using for loop
