@@ -10,7 +10,7 @@ for val in veggies:
     print(char)
 
 # for loop with else
- str ="kisham siani"
+ str ="kishansaini"
  for char in str:
     if char == "a":
        print("a found")
@@ -19,3 +19,13 @@ for val in veggies:
     
 else:
     print("ended")
+
+    # range
+    print(range(5))
+    for i in range(5):
+       print(i)
+    #    range start and stop
+    for i in range(1,9):
+       print(i)
+for i in range(1,4,9):
+       print(i)
