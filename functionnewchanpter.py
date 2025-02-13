@@ -12,3 +12,11 @@ def average(a,b,c):
     s = a + b + c
     return s/3
 print(average(2,3,4))
+# function are two type 
+# 1. built in function (print,sum)
+# 2. user defined function (sum,average)  # function with argument and return valu
+# function with argument and return value
+def sum(a,b):
+    s = a + b
+    return s
+print(sum(2,3))
