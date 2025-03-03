@@ -1,0 +1,2 @@
+# class.attr
+# obj.attr
